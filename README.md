@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramesh Chandra Mohapatra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Node js , MongoDB**
+- 🌱 I’m currently learning **Deep learning , NLP**
 
-- 💬 Ask me about **java, web-dev**
+- 💬 Ask me about **web-dev, Machine Learning, Data Science**
 
 - 📫 How to reach me **rameshmohapatra2078@gmail.com**
 
