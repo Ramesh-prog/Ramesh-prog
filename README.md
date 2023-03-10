@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh Chandra Mohapatra</h1>
-<h3 align="center">A passionate frontend developer & Data Scientists</h3>
+<h3 align="center">A passionate full stack web developer & Data Scientists</h3>
 
-- 🌱 I’m currently learning **Deep learning , NLP**
+- 🌱 I’m currently learning **React js, Redux, tailwind**
 
 - 💬 Ask me about **web-dev, Machine Learning, Data Science**
 
